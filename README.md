@@ -6,6 +6,9 @@ A *fully autonomous, policy-constrained* system that searches jobs, personalizes
 ---
 The website is live on the link : 
 https://ai-frontend-nine-vert.vercel.app/
+
+Front-end of the website : 
+https://github.com/Mayank2305Mishra/AI-Frontend
 ## Overview
 
 This project is a hands-free job application agent for students.
